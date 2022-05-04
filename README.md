@@ -10,6 +10,7 @@
 🐦 ![Twitter](https://img.shields.io/twitter/follow/julielerman?style=social)
 ⚡ Fun fact: My dog has a twitter account [Princess Josie](http://twitter.com/josietoze)
 🥇 [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/8987?fullName=Julie%20Lerman) since 2002
+📺 [Recorded conference talks on YouTube](https://www.youtube.com/playlist?list=PLn4O-g6JN-zle78-Z-lZk6UcIFllq0fY9)
 
 
 ![](https://github-readme-stats.vercel.app/api?username=julielerman)
