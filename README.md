@@ -9,4 +9,4 @@
 ⚡ Fun fact: My dog has a twitter account [Princess Josie](http://twitter.com/josietoze)
 🥇 [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/8987?fullName=Julie%20Lerman) since 2002
 
-[](https://github-readme-stats.vercel.app/api?username=julielerman)
+![](https://github-readme-stats.vercel.app/api?username=julielerman)
