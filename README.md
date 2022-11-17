@@ -9,6 +9,7 @@
 📺 Watch my popular Pluralsight courses on EF Core and Domain-Driven Design [My Pluralsight author page](https://www.pluralsight.com/authors/julie-lerman).   
 📫 How to reach me: [Blog Contact Form](https://thedatafarm.com/contact/).   
 🐦 ![Twitter](https://img.shields.io/twitter/follow/julielerman?style=social).  
+🐘 <a rel="me" href="https://mas.to/@JulieLerman">Mastodon</a>  
 ⚡ Fun fact: My dog has a twitter account [Princess Josie](http://twitter.com/josietoze).  
 🥇 [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/8987?fullName=Julie%20Lerman) since 2002.   
 📺 [Recorded conference talks on YouTube](https://www.youtube.com/playlist?list=PLn4O-g6JN-zle78-Z-lZk6UcIFllq0fY9).   
