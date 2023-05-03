@@ -2,7 +2,7 @@
 <!--
 **julielerman/julielerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### :newspaper_roll: May 3, 2023: [EF Core and Domain-Driven Design](https://pluralsight.pxf.io/EFCoreDDD) is published on Pluralsight!  [Get source code for the course](https://github.com/julielerman/PluralsightEFCore6DDD)
+### :newspaper_roll: May 3, 2023: [EF Core and Domain-Driven Design](https://pluralsight.pxf.io/EFCoreDDD) is published on Pluralsight!  [Get source code for the course](https://github.com/julielerman/PluralsightEFCore6andDDD)
 ### :newspaper_roll: May 3, 2022: [EF Core 6 Fundamentals](https://pluralsight.pxf.io/EFCore6) is published on Pluralsight!  [Get source code for the course](https://github.com/julielerman/PluralsightEFCore6Fundamentals)
 
 💬 Ask me about bringing Domain-Driven Design and Event Storming skills to your team  
