@@ -2,9 +2,9 @@
 <!--
 **julielerman/julielerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### :newspaper_roll: August 7, 2023: Added a [EF Core 7 branch](https://github.com/julielerman/PluralsightEFCore6Fundamentals/tree/EFCore7) to EF Core 6 Fundamentals source with all projects moved to EF Core 7. It was 99.9% forward compatible!
-### :newspaper_roll: May 3, 2023: [EF Core and Domain-Driven Design](https://pluralsight.pxf.io/EFCoreDDD) is published on Pluralsight!  [Get source code for the course](https://github.com/julielerman/PluralsightEFCore6andDDD)
-### :newspaper_roll: May 3, 2022: [EF Core 6 Fundamentals](https://pluralsight.pxf.io/EFCore6) is published on Pluralsight!  [Get source code for the course](https://github.com/julielerman/PluralsightEFCore6Fundamentals) 
+### :newspaper_roll: August 7, 2023: Added a [EF Core 7 branch](https://github.com/julielerman/PluralsightEFCore6Fundamentals/tree/EFCore7) to EF Core 6 Fundamentals source with all projects moved to EF Core 7. It was 99.9% forward compatible! 
+###      May 3, 2023: [EF Core and Domain-Driven Design](https://pluralsight.pxf.io/EFCoreDDD) is published on Pluralsight!  [Get source code for the course](https://github.com/julielerman/PluralsightEFCore6andDDD)
+###      May 3, 2022: [EF Core 6 Fundamentals](https://pluralsight.pxf.io/EFCore6) is published on Pluralsight!  [Get source code for the course](https://github.com/julielerman/PluralsightEFCore6Fundamentals) 
 
 💬 Ask me about bringing Domain-Driven Design and Event Storming skills to your team  
 :brain: Code reviews and training for EF Core or Domain-Driven Design practices.  
