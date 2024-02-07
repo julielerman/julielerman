@@ -2,7 +2,7 @@
 <!--
 **julielerman/julielerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### :newspaper_roll: Feb 1, 2024: [EF Core and Domain-Driven Design](https://pluralsight.pxf.io/EFCoreDDD) is published on Pluralsight! An update using EF Core 8, records and even better code than before. [Get source code for the course](https://github.com/julielerman/EFCoreandDDD)
+### :newspaper_roll: Feb 1, 2024: [EF Core and Domain-Driven Design](https://pluralsight.pxf.io/EFCoreDDD) is published on Pluralsight! An update using EF Core 8, records and even better code than before. [Get source code for the course](https://github.com/julielerman/EFCore6andDDDPluralsight)
 ### :newspaper_roll: January 2024: EF Core 8 Fundamentals for EF Core 8 was published in early January along with source at https://github.com/julielerman/EFCore8Fundamentals. 
 ### :newspaper_roll: [EF Core Big Picture](https://www.pluralsight.com/courses/ef-core-6-big-picture) was also updated to EF Core 8. ###
 ***
